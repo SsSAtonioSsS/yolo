@@ -1,5 +1,10 @@
 [
     {
+        "name": "donate",
         "version": "1.2.2"
+    },
+    {
+        "name": "glib",
+        "version": "0.0.5"
     }
 ]
